@@ -43,7 +43,6 @@ def insert_new_record(custom_no,custom_level):
         if (len(latest_record) > 0) & (latest_record[0].arrive_date >= timezone.now() - datetime.timedelta(days=1)):
                 waitno = latest_record[0].wait_no
                 GenerateOrder.vip_number = int(waitno[1:len(waitno)])
-
         waitno = GenerateOrder.getviporder(5,'V')
         new_record = VRecord(no=custom_no, wait_no=waitno, arrive_date=date)
         new_record.save()
