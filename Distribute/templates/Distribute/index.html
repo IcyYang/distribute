@@ -3,14 +3,6 @@
 <p>{{ tips }}</p>
 {% endif %}
 
-<form action="{% url 'Distribute:normalc' %}" method="post">
-{% csrf_token %}
-<input type="submit" value="取号" />
-</form>
-<form action="{% url 'Distribute:vipc' %}" method="post">
-{% csrf_token %}
- <input type="submit" value="VIP取号" />
-</form>
 <form action="{% url 'Distribute:nextc' %}" method="post">
 {% csrf_token %}
  <input type="submit" value="叫号" />
