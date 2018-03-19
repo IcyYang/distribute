@@ -126,3 +126,5 @@ class OperateOrder:
                                    arrive_date__date__exact=timezone.now().date(),institution_no__exact=institudeid).update(
                 status=spe_status,
                 end_date=timezone.now())
+
+ssss=1
