@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c1ddf3e-5180-492e-89ed-f7849e5dd230" name="Default" comment="002">
+    <list default="true" id="2c1ddf3e-5180-492e-89ed-f7849e5dd230" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Distribute/admin.py" afterPath="$PROJECT_DIR$/Distribute/admin.py" />
-      <change beforePath="$PROJECT_DIR$/Distribute/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/Distribute/migrations/0001_initial.py" />
-      <change beforePath="$PROJECT_DIR$/Distribute/migrations/0002_auto_20180227_1010.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Distribute/migrations/0003_auto_20180227_1411.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Distribute/migrations/0004_auto_20180227_1413.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Distribute/models.py" afterPath="$PROJECT_DIR$/Distribute/models.py" />
-      <change beforePath="$PROJECT_DIR$/Distribute/oper.py" afterPath="$PROJECT_DIR$/Distribute/oper.py" />
-      <change beforePath="$PROJECT_DIR$/Distribute/templates/Distribute/index.html" afterPath="$PROJECT_DIR$/Distribute/templates/Distribute/index.html" />
-      <change beforePath="$PROJECT_DIR$/Distribute/urls.py" afterPath="$PROJECT_DIR$/Distribute/urls.py" />
-      <change beforePath="$PROJECT_DIR$/Distribute/views.py" afterPath="$PROJECT_DIR$/Distribute/views.py" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change beforePath="$PROJECT_DIR$/myDistribute/settings.py" afterPath="$PROJECT_DIR$/myDistribute/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -536,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519956289517</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="0319">
+      <created>1521444936906</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1521444936906</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -645,7 +640,8 @@
     <MESSAGE value="paidui" />
     <MESSAGE value="001" />
     <MESSAGE value="002" />
-    <option name="LAST_COMMIT_MESSAGE" value="002" />
+    <MESSAGE value="0319" />
+    <option name="LAST_COMMIT_MESSAGE" value="0319" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
